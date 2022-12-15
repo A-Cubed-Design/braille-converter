@@ -38,7 +38,7 @@
   {
     "ascii": 24,
     "ascii_glyph": "$",
-    "braille": 110101,
+    "braille": "110101",
     "glyph": "?",
     "meaning": "ed",
     "decimal": 10283,
@@ -47,7 +47,7 @@
   {
     "ascii": 25,
     "ascii_glyph": "%",
-    "braille": 100101,
+    "braille": "100101",
     "glyph": "?",
     "meaning": "sh",
     "decimal": 10281,
@@ -56,7 +56,7 @@
   {
     "ascii": 26,
     "ascii_glyph": "&",
-    "braille": 111101,
+    "braille": "111101",
     "glyph": "?",
     "meaning": "and",
     "decimal": 10287,
@@ -74,7 +74,7 @@
   {
     "ascii": 28,
     "ascii_glyph": "(",
-    "braille": 111011,
+    "braille": "111011",
     "glyph": "?",
     "meaning": "of",
     "decimal": 10295,
@@ -92,7 +92,7 @@
   {
     "ascii": "2A",
     "ascii_glyph": "*",
-    "braille": 100001,
+    "braille": "100001",
     "glyph": "?",
     "meaning": "ch",
     "decimal": 10273,
@@ -236,7 +236,7 @@
   {
     "ascii": "3A",
     "ascii_glyph": ":",
-    "braille": 100011,
+    "braille": "100011",
     "glyph": "?",
     "meaning": "wh",
     "decimal": 10289,
@@ -254,7 +254,7 @@
   {
     "ascii": "3C",
     "ascii_glyph": "<",
-    "braille": 110001,
+    "braille": "110001",
     "glyph": "?",
     "meaning": "gh",
     "decimal": 10275,
@@ -263,7 +263,7 @@
   {
     "ascii": "3D",
     "ascii_glyph": "=",
-    "braille": 111111,
+    "braille": "111111",
     "glyph": "?",
     "meaning": "for",
     "decimal": 10303,
@@ -281,7 +281,7 @@
   {
     "ascii": "3F",
     "ascii_glyph": "?",
-    "braille": 100111,
+    "braille": "100111",
     "glyph": "?",
     "meaning": "th",
     "decimal": 10297,
@@ -299,7 +299,7 @@
   {
     "ascii": 41,
     "ascii_glyph": "A",
-    "braille": 100000,
+    "braille": "100000",
     "glyph": "?",
     "meaning": "a",
     "decimal": 10241,
@@ -308,7 +308,7 @@
   {
     "ascii": 42,
     "ascii_glyph": "B",
-    "braille": 110000,
+    "braille": "110000",
     "glyph": "?",
     "meaning": "b",
     "decimal": 10243,
@@ -317,7 +317,7 @@
   {
     "ascii": 43,
     "ascii_glyph": "C",
-    "braille": 100100,
+    "braille": "100100",
     "glyph": "?",
     "meaning": "c",
     "decimal": 10249,
@@ -326,7 +326,7 @@
   {
     "ascii": 44,
     "ascii_glyph": "D",
-    "braille": 100110,
+    "braille": "100110",
     "glyph": "?",
     "meaning": "d",
     "decimal": 10265,
@@ -335,7 +335,7 @@
   {
     "ascii": 45,
     "ascii_glyph": "E",
-    "braille": 100010,
+    "braille": "100010",
     "glyph": "?",
     "meaning": "e",
     "decimal": 10257,
@@ -344,7 +344,7 @@
   {
     "ascii": 46,
     "ascii_glyph": "F",
-    "braille": 110100,
+    "braille": "110100",
     "glyph": "?",
     "meaning": "f",
     "decimal": 10251,
@@ -353,7 +353,7 @@
   {
     "ascii": 47,
     "ascii_glyph": "G",
-    "braille": 110110,
+    "braille": "110110",
     "glyph": "?",
     "meaning": "g",
     "decimal": 10267,
@@ -362,7 +362,7 @@
   {
     "ascii": 48,
     "ascii_glyph": "H",
-    "braille": 110010,
+    "braille": "110010",
     "glyph": "?",
     "meaning": "h",
     "decimal": 10259,
@@ -389,7 +389,7 @@
   {
     "ascii": "4B",
     "ascii_glyph": "K",
-    "braille": 101000,
+    "braille": "101000",
     "glyph": "?",
     "meaning": "k",
     "decimal": 10245,
@@ -398,7 +398,7 @@
   {
     "ascii": "4C",
     "ascii_glyph": "L",
-    "braille": 111000,
+    "braille": "111000",
     "glyph": "?",
     "meaning": "l",
     "decimal": 10247,
@@ -407,7 +407,7 @@
   {
     "ascii": "4D",
     "ascii_glyph": "M",
-    "braille": 101100,
+    "braille": "101100",
     "glyph": "?",
     "meaning": "m",
     "decimal": 10253,
@@ -416,7 +416,7 @@
   {
     "ascii": "4E",
     "ascii_glyph": "N",
-    "braille": 101110,
+    "braille": "101110",
     "glyph": "?",
     "meaning": "n",
     "decimal": 10269,
@@ -425,7 +425,7 @@
   {
     "ascii": "4F",
     "ascii_glyph": "O",
-    "braille": 101010,
+    "braille": "101010",
     "glyph": "?",
     "meaning": "o",
     "decimal": 10261,
@@ -434,7 +434,7 @@
   {
     "ascii": 50,
     "ascii_glyph": "P",
-    "braille": 111100,
+    "braille": "111100",
     "glyph": "?",
     "meaning": "p",
     "decimal": 10255,
@@ -443,7 +443,7 @@
   {
     "ascii": 51,
     "ascii_glyph": "Q",
-    "braille": 111110,
+    "braille": "111110",
     "glyph": "?",
     "meaning": "q",
     "decimal": 10271,
@@ -452,7 +452,7 @@
   {
     "ascii": 52,
     "ascii_glyph": "R",
-    "braille": 111010,
+    "braille": "111010",
     "glyph": "?",
     "meaning": "r",
     "decimal": 10263,
@@ -479,7 +479,7 @@
   {
     "ascii": 55,
     "ascii_glyph": "U",
-    "braille": 101001,
+    "braille": "101001",
     "glyph": "?",
     "meaning": "u",
     "decimal": 10277,
@@ -488,7 +488,7 @@
   {
     "ascii": 56,
     "ascii_glyph": "V",
-    "braille": 111001,
+    "braille": "111001",
     "glyph": "?",
     "meaning": "v",
     "decimal": 10279,
@@ -506,7 +506,7 @@
   {
     "ascii": 58,
     "ascii_glyph": "X",
-    "braille": 101101,
+    "braille": "101101",
     "glyph": "?",
     "meaning": "x",
     "decimal": 10285,
@@ -515,7 +515,7 @@
   {
     "ascii": 59,
     "ascii_glyph": "Y",
-    "braille": 101111,
+    "braille": "101111",
     "glyph": "?",
     "meaning": "y",
     "decimal": 10301,
@@ -524,7 +524,7 @@
   {
     "ascii": "5A",
     "ascii_glyph": "Z",
-    "braille": 101011,
+    "braille": "101011",
     "glyph": "?",
     "meaning": "z",
     "decimal": 10293,
@@ -542,7 +542,7 @@
   {
     "ascii": "5C",
     "ascii_glyph": "\\",
-    "braille": 110011,
+    "braille": "110011",
     "glyph": "?",
     "meaning": "ou",
     "decimal": 10291,
@@ -551,7 +551,7 @@
   {
     "ascii": "5D",
     "ascii_glyph": "]",
-    "braille": 110111,
+    "braille": "110111",
     "glyph": "?",
     "meaning": "er",
     "decimal": 10299,
