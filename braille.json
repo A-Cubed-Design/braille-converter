@@ -1,0 +1,578 @@
+[
+ {
+   "ascii": "20",
+   "ascii_glyph": "(space)",
+   "braille": 0,
+   "glyph": "?",
+   "meaning": "(space)",
+   "decimal": 10240,
+   "hex": "2800"
+ },
+ {
+   "ascii": "21",
+   "ascii_glyph": "!",
+   "braille": 11101,
+   "glyph": "?",
+   "meaning": "the",
+   "decimal": 10286,
+   "hex": "282E"
+ },
+ {
+   "ascii": "22",
+   "ascii_glyph": "\"",
+   "braille": 10,
+   "glyph": "?",
+   "meaning": "(contraction)",
+   "decimal": 10256,
+   "hex": "2810"
+ },
+ {
+   "ascii": "23",
+   "ascii_glyph": "#",
+   "braille": 1111,
+   "glyph": "?",
+   "meaning": "(number prefix)",
+   "decimal": 10300,
+   "hex": "283C"
+ },
+ {
+   "ascii": "24",
+   "ascii_glyph": "$",
+   "braille": 110101,
+   "glyph": "?",
+   "meaning": "ed",
+   "decimal": 10283,
+   "hex": "282B"
+ },
+ {
+   "ascii": "25",
+   "ascii_glyph": "%",
+   "braille": 100101,
+   "glyph": "?",
+   "meaning": "sh",
+   "decimal": 10281,
+   "hex": "2829"
+ },
+ {
+   "ascii": "26",
+   "ascii_glyph": "&",
+   "braille": 111101,
+   "glyph": "?",
+   "meaning": "and",
+   "decimal": 10287,
+   "hex": "282F"
+ },
+ {
+   "ascii": "27",
+   "ascii_glyph": "'",
+   "braille": 1000,
+   "glyph": "?",
+   "meaning": "'",
+   "decimal": 10244,
+   "hex": "2804"
+ },
+ {
+   "ascii": "28",
+   "ascii_glyph": "(",
+   "braille": 111011,
+   "glyph": "?",
+   "meaning": "of",
+   "decimal": 10295,
+   "hex": "2837"
+ },
+ {
+   "ascii": "29",
+   "ascii_glyph": ")",
+   "braille": 11111,
+   "glyph": "?",
+   "meaning": "with",
+   "decimal": 10302,
+   "hex": "283E"
+ },
+ {
+   "ascii": "2A",
+   "ascii_glyph": "*",
+   "braille": 100001,
+   "glyph": "?",
+   "meaning": "ch",
+   "decimal": 10273,
+   "hex": "2821"
+ },
+ {
+   "ascii": "2B",
+   "ascii_glyph": "+",
+   "braille": 1101,
+   "glyph": "?",
+   "meaning": "ing",
+   "decimal": 10284,
+   "hex": "282C"
+ },
+ {
+   "ascii": "2C",
+   "ascii_glyph": ",",
+   "braille": 1,
+   "glyph": "?",
+   "meaning": "(uppercase prefix)",
+   "decimal": 10272,
+   "hex": "2820"
+ },
+ {
+   "ascii": "2D",
+   "ascii_glyph": "-",
+   "braille": 1001,
+   "glyph": "?",
+   "meaning": "-",
+   "decimal": 10276,
+   "hex": "2824"
+ },
+ {
+   "ascii": "2E",
+   "ascii_glyph": ".",
+   "braille": 101,
+   "glyph": "?",
+   "meaning": "(italic prefix)",
+   "decimal": 10280,
+   "hex": "2828"
+ },
+ {
+   "ascii": "2F",
+   "ascii_glyph": "/",
+   "braille": 1100,
+   "glyph": "?",
+   "meaning": "st or /",
+   "decimal": 10252,
+   "hex": "280C"
+ },
+ {
+   "ascii": "30",
+   "ascii_glyph": "0",
+   "braille": 1011,
+   "glyph": "?",
+   "meaning": "�",
+   "decimal": 10292,
+   "hex": "2834"
+ },
+ {
+   "ascii": "31",
+   "ascii_glyph": "1",
+   "braille": 10000,
+   "glyph": "?",
+   "meaning": ",",
+   "decimal": 10242,
+   "hex": "2802"
+ },
+ {
+   "ascii": "32",
+   "ascii_glyph": "2",
+   "braille": 11000,
+   "glyph": "?",
+   "meaning": ";",
+   "decimal": 10246,
+   "hex": "2806"
+ },
+ {
+   "ascii": "33",
+   "ascii_glyph": "3",
+   "braille": 10010,
+   "glyph": "?",
+   "meaning": ":",
+   "decimal": 10258,
+   "hex": "2812"
+ },
+ {
+   "ascii": "34",
+   "ascii_glyph": "4",
+   "braille": 10011,
+   "glyph": "?",
+   "meaning": ".",
+   "decimal": 10290,
+   "hex": "2832"
+ },
+ {
+   "ascii": "35",
+   "ascii_glyph": "5",
+   "braille": 10001,
+   "glyph": "?",
+   "meaning": "en",
+   "decimal": 10274,
+   "hex": "2822"
+ },
+ {
+   "ascii": "36",
+   "ascii_glyph": "6",
+   "braille": 11010,
+   "glyph": "?",
+   "meaning": "!",
+   "decimal": 10262,
+   "hex": "2816"
+ },
+ {
+   "ascii": "37",
+   "ascii_glyph": "7",
+   "braille": 11011,
+   "glyph": "?",
+   "meaning": "( or )",
+   "decimal": 10294,
+   "hex": "2836"
+ },
+ {
+   "ascii": "38",
+   "ascii_glyph": "8",
+   "braille": 11001,
+   "glyph": "?",
+   "meaning": "� or�?",
+   "decimal": 10278,
+   "hex": "2826"
+ },
+ {
+   "ascii": "39",
+   "ascii_glyph": "9",
+   "braille": 1010,
+   "glyph": "?",
+   "meaning": "in",
+   "decimal": 10260,
+   "hex": "2814"
+ },
+ {
+   "ascii": "3A",
+   "ascii_glyph": ":",
+   "braille": 100011,
+   "glyph": "?",
+   "meaning": "wh",
+   "decimal": 10289,
+   "hex": "2831"
+ },
+ {
+   "ascii": "3B",
+   "ascii_glyph": ";",
+   "braille": 11,
+   "glyph": "?",
+   "meaning": "(letter prefix)",
+   "decimal": 10288,
+   "hex": "2830"
+ },
+ {
+   "ascii": "3C",
+   "ascii_glyph": "<",
+   "braille": 110001,
+   "glyph": "?",
+   "meaning": "gh",
+   "decimal": 10275,
+   "hex": "2823"
+ },
+ {
+   "ascii": "3D",
+   "ascii_glyph": "=",
+   "braille": 111111,
+   "glyph": "?",
+   "meaning": "for",
+   "decimal": 10303,
+   "hex": "283F"
+ },
+ {
+   "ascii": "3E",
+   "ascii_glyph": ">",
+   "braille": 1110,
+   "glyph": "?",
+   "meaning": "ar",
+   "decimal": 10268,
+   "hex": "281C"
+ },
+ {
+   "ascii": "3F",
+   "ascii_glyph": "?",
+   "braille": 100111,
+   "glyph": "?",
+   "meaning": "th",
+   "decimal": 10297,
+   "hex": "2839"
+ },
+ {
+   "ascii": "40",
+   "ascii_glyph": "@",
+   "braille": 100,
+   "glyph": "?",
+   "meaning": "(accent prefix)",
+   "decimal": 10248,
+   "hex": "2808"
+ },
+ {
+   "ascii": "41",
+   "ascii_glyph": "A",
+   "braille": 100000,
+   "glyph": "?",
+   "meaning": "a",
+   "decimal": 10241,
+   "hex": "2801"
+ },
+ {
+   "ascii": "42",
+   "ascii_glyph": "B",
+   "braille": 110000,
+   "glyph": "?",
+   "meaning": "b",
+   "decimal": 10243,
+   "hex": "2803"
+ },
+ {
+   "ascii": "43",
+   "ascii_glyph": "C",
+   "braille": 100100,
+   "glyph": "?",
+   "meaning": "c",
+   "decimal": 10249,
+   "hex": "2809"
+ },
+ {
+   "ascii": "44",
+   "ascii_glyph": "D",
+   "braille": 100110,
+   "glyph": "?",
+   "meaning": "d",
+   "decimal": 10265,
+   "hex": "2819"
+ },
+ {
+   "ascii": "45",
+   "ascii_glyph": "E",
+   "braille": 100010,
+   "glyph": "?",
+   "meaning": "e",
+   "decimal": 10257,
+   "hex": "2811"
+ },
+ {
+   "ascii": "46",
+   "ascii_glyph": "F",
+   "braille": 110100,
+   "glyph": "?",
+   "meaning": "f",
+   "decimal": 10251,
+   "hex": "280B"
+ },
+ {
+   "ascii": "47",
+   "ascii_glyph": "G",
+   "braille": 110110,
+   "glyph": "?",
+   "meaning": "g",
+   "decimal": 10267,
+   "hex": "281B"
+ },
+ {
+   "ascii": "48",
+   "ascii_glyph": "H",
+   "braille": 110010,
+   "glyph": "?",
+   "meaning": "h",
+   "decimal": 10259,
+   "hex": "2813"
+ },
+ {
+   "ascii": "49",
+   "ascii_glyph": "I",
+   "braille": 10100,
+   "glyph": "?",
+   "meaning": "i",
+   "decimal": 10250,
+   "hex": "280A"
+ },
+ {
+   "ascii": "4A",
+   "ascii_glyph": "J",
+   "braille": 10110,
+   "glyph": "?",
+   "meaning": "j",
+   "decimal": 10266,
+   "hex": "281A"
+ },
+ {
+   "ascii": "4B",
+   "ascii_glyph": "K",
+   "braille": 101000,
+   "glyph": "?",
+   "meaning": "k",
+   "decimal": 10245,
+   "hex": "2805"
+ },
+ {
+   "ascii": "4C",
+   "ascii_glyph": "L",
+   "braille": 111000,
+   "glyph": "?",
+   "meaning": "l",
+   "decimal": 10247,
+   "hex": "2807"
+ },
+ {
+   "ascii": "4D",
+   "ascii_glyph": "M",
+   "braille": 101100,
+   "glyph": "?",
+   "meaning": "m",
+   "decimal": 10253,
+   "hex": "280D"
+ },
+ {
+   "ascii": "4E",
+   "ascii_glyph": "N",
+   "braille": 101110,
+   "glyph": "?",
+   "meaning": "n",
+   "decimal": 10269,
+   "hex": "281D"
+ },
+ {
+   "ascii": "4F",
+   "ascii_glyph": "O",
+   "braille": 101010,
+   "glyph": "?",
+   "meaning": "o",
+   "decimal": 10261,
+   "hex": "2815"
+ },
+ {
+   "ascii": "50",
+   "ascii_glyph": "P",
+   "braille": 111100,
+   "glyph": "?",
+   "meaning": "p",
+   "decimal": 10255,
+   "hex": "280F"
+ },
+ {
+   "ascii": "51",
+   "ascii_glyph": "Q",
+   "braille": 111110,
+   "glyph": "?",
+   "meaning": "q",
+   "decimal": 10271,
+   "hex": "281F"
+ },
+ {
+   "ascii": "52",
+   "ascii_glyph": "R",
+   "braille": 111010,
+   "glyph": "?",
+   "meaning": "r",
+   "decimal": 10263,
+   "hex": "2817"
+ },
+ {
+   "ascii": "53",
+   "ascii_glyph": "S",
+   "braille": 11100,
+   "glyph": "?",
+   "meaning": "s",
+   "decimal": 10254,
+   "hex": "280E"
+ },
+ {
+   "ascii": "54",
+   "ascii_glyph": "T",
+   "braille": 11110,
+   "glyph": "?",
+   "meaning": "t",
+   "decimal": 10270,
+   "hex": "281E"
+ },
+ {
+   "ascii": "55",
+   "ascii_glyph": "U",
+   "braille": 101001,
+   "glyph": "?",
+   "meaning": "u",
+   "decimal": 10277,
+   "hex": "2825"
+ },
+ {
+   "ascii": "56",
+   "ascii_glyph": "V",
+   "braille": 111001,
+   "glyph": "?",
+   "meaning": "v",
+   "decimal": 10279,
+   "hex": "2827"
+ },
+ {
+   "ascii": "57",
+   "ascii_glyph": "W",
+   "braille": 10111,
+   "glyph": "?",
+   "meaning": "w",
+   "decimal": 10298,
+   "hex": "283A"
+ },
+ {
+   "ascii": "58",
+   "ascii_glyph": "X",
+   "braille": 101101,
+   "glyph": "?",
+   "meaning": "x",
+   "decimal": 10285,
+   "hex": "282D"
+ },
+ {
+   "ascii": "59",
+   "ascii_glyph": "Y",
+   "braille": 101111,
+   "glyph": "?",
+   "meaning": "y",
+   "decimal": 10301,
+   "hex": "283D"
+ },
+ {
+   "ascii": "5A",
+   "ascii_glyph": "Z",
+   "braille": 101011,
+   "glyph": "?",
+   "meaning": "z",
+   "decimal": 10293,
+   "hex": "2835"
+ },
+ {
+   "ascii": "5B",
+   "ascii_glyph": "[",
+   "braille": 10101,
+   "glyph": "?",
+   "meaning": "ow",
+   "decimal": 10282,
+   "hex": "282A"
+ },
+ {
+   "ascii": "5C",
+   "ascii_glyph": "\\",
+   "braille": 110011,
+   "glyph": "?",
+   "meaning": "ou",
+   "decimal": 10291,
+   "hex": "2833"
+ },
+ {
+   "ascii": "5D",
+   "ascii_glyph": "]",
+   "braille": 110111,
+   "glyph": "?",
+   "meaning": "er",
+   "decimal": 10299,
+   "hex": "283B"
+ },
+ {
+   "ascii": "5E",
+   "ascii_glyph": "^",
+   "braille": 110,
+   "glyph": "?",
+   "meaning": "(currency prefix)",
+   "decimal": 10264,
+   "hex": "2818"
+ },
+ {
+   "ascii": "5F",
+   "ascii_glyph": "_",
+   "braille": 111,
+   "glyph": "?",
+   "meaning": "(contraction)",
+   "decimal": 10296,
+   "hex": "2838"
+ }
+]
