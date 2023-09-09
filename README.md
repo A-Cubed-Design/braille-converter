@@ -1,6 +1,6 @@
 # Braille-Converter
 
-[[![pages-build-deployment](https://github.com/SavageGarrett/braille-converter/actions/workflows/pages/pages-build-deployment/badge.svg?branch=master)](https://github.com/SavageGarrett/braille-converter/actions/workflows/pages/pages-build-deployment)](https://braille-converter.netlify.app/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b32deb23-e730-4a85-a4e1-4ba1f4575721/deploy-status)](https://app.netlify.com/sites/braille-converter/deploys)
 
 [View Live Site](https://braille-converter.netlify.app "View Live Site")
 
